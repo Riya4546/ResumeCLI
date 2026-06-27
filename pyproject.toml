@@ -1,0 +1,4 @@
+[project]
+name = "resumecli"
+version = "0.1.0"
+description = "AI-powered ATS Resume Analyzer"
